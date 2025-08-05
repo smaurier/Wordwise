@@ -11,9 +11,6 @@ export default function AppNav() {
         <li>
           <NavLink to="countries">countries</NavLink>
         </li>
-        <li>
-          <NavLink to="form">form</NavLink>
-        </li>
       </ul>
     </nav>
   );
